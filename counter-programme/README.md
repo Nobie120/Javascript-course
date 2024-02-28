@@ -14,7 +14,9 @@ This project demonstrates a straightforward implementation of a counter using HT
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/counter-project.git
+```
+$ git clone https://github.com/your-username/counter-project.git
+```
 2. Open the HTML File
 Navigate to the project directory and open the index.html file in your preferred web browser.
 3. Interact with the Counter
